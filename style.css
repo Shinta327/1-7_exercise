@@ -24,8 +24,7 @@ a {
 
 .content {
   width: 840px;
-  margin: 0 auto;
-  padding: 50px 0;
+  margin: 50px auto;
 }
 
 .content-item {
@@ -34,7 +33,7 @@ a {
   border-bottom: 1px solid rgb(207, 207, 207);
 }
 
-.content-text{
+.content-text {
   font-size: 15px;
   color: gray;
 }
